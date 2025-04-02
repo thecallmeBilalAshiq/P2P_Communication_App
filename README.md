@@ -1,7 +1,7 @@
 # 🌐 P2P Communication Application  
 *A high-performance, decentralized peer-to-peer file-sharing and messaging system*  
 
-![P2P Communication App](insert_image_url_here)  
+![P2P Communication App](Source/main.png)  
 
 ## 🚀 Introduction  
 
@@ -35,16 +35,14 @@ The **P2P Communication Application** is a lightweight yet powerful project buil
 
 ## 📸 Screenshots  
 
-![Login Screen](insert_image_url_here)  
+![Login Screen](Source/login.png)  
 *Secure user authentication before accessing the network*  
 
-![Dashboard](insert_image_url_here)  
+![Dashboard](Source/dashboard.png)  
 *Intuitive UI displaying active peers and shared files*  
 
-![File Sharing](insert_image_url_here)  
+![File Sharing](Source/filesharing.png)  
 *Fast, reliable, and secure file transfer between peers*  
-
-![Messaging](insert_image_url_here)  
 *Real-time chat with emoji support*  
 
 ---
